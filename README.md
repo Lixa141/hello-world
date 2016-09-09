@@ -1,2 +1,2 @@
 # hello-world
-just another repositorium
+Bonjorno seniore and seniorite
